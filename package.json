@@ -1,0 +1,15 @@
+{
+  "name": "3-sauktukas",
+  "version": "1.0.0",
+  "description": "Sauktukas",
+  "main": "index.js",
+  "scripts": {
+    "dev":"dead-server --port=4003 --host=localhost",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "html"
+  ],
+  "author": "Laura",
+  "license": "ISC"
+}
