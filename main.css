@@ -9,8 +9,8 @@ body {
 }
 main {
     align-items: flex-end;
+    margin: auto;
     display: flex;
-    height: 95vh;
     justify-content: center;
     width: 95%;
 }
@@ -34,4 +34,11 @@ main {
 .description {
     color: #898989;
     font-size: 30px;
+}
+.link {
+    color: #5785b7;
+    text-decoration: none;
+}
+.link:hover {
+    text-decoration: underline;
 }
